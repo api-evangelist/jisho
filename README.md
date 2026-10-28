@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Jisho.org is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://jisho.org/
+Jisho.org is an online Japanese-English dictionary providing comprehensive word definitions, example sentences, kanji details, and search tools for learners and translators. The site offers a clean web interface, API-like query parameters for advanced searches, and resources such as radical lookup and voice pronunciation, serving a global community of Japanese language enthusiasts.
+
+**Areas:** Company · Japanese · Dictionary · Language-Learning · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://jisho.org/)
+- [Documentation](https://jisho.org/docs)
+- [GitHub](https://github.com/jisho-org)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jisho/](https://apis.io/providers/jisho/).
